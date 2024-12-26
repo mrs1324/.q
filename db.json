@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "permission": "admin",
+      "username": "storm",
+      "password": "Storm23@#",
+      "Account":"no-ban"
+    }
+  ]
+}
